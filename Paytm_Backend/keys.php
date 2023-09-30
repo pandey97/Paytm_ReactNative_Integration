@@ -1,4 +1,4 @@
 <?php 
-$mid = "YOUR_MID";
-$merchant_Key = "YOUR_merchant_Key";
+$mid = "12345678987654321";
+$merchant_Key = "Yjdsfh4456kj3j5gj43jg";
 ?>
